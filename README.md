@@ -1,6 +1,5 @@
 # PraktikumMultiplayer
 Dota 2 data yang dikirim :
-
 -coordinate x,y,z sebagai posisi hero
 -state hero (walking, attack, cast spell, death, teleport, etc)
 -health point
